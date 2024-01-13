@@ -1,7 +1,6 @@
 import numpy as np
 from numpy import array
 from testCases import *
-from dlai_tools.testing_utils import single_test, multiple_test
 
 ### ex 1         
 def update_parameters_with_gd_test(target):

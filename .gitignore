@@ -3,3 +3,6 @@
 *.jpg
 *.gif
 *.jpeg
+bin/
+lib/
+include/

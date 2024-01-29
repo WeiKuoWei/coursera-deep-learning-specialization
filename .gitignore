@@ -1,10 +1,13 @@
 **/.DS_Store
 
-
 # file types
 *.py
 *.h5
 *.gz
+*.txt
+*.wav
+*.png
+*.json
 
 # files
 Drive.ai Dataset Sample LICENSE
@@ -25,6 +28,10 @@ keras-facenet_tf23
 keras-facenet-h5
 pretrained-model
 output
+model
+models
+XY_dev
+XY_train
 
 # folders directories
 bin/

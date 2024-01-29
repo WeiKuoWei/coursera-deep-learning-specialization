@@ -4,6 +4,7 @@
 # file types
 *.py
 *.h5
+*.gz
 
 # files
 Drive.ai Dataset Sample LICENSE
@@ -20,6 +21,8 @@ model_data
 nb_images
 out
 yad2k
+keras-facenet_tf23
+keras-facenet-h5
 
 # folders directories
 bin/

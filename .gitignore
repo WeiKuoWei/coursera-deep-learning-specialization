@@ -23,6 +23,7 @@ out
 yad2k
 keras-facenet_tf23
 keras-facenet-h5
+pretrained-model
 
 # folders directories
 bin/

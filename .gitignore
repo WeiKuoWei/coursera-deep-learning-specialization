@@ -1,8 +1,18 @@
 **/.DS_Store
-*.png
-*.jpg
-*.gif
-*.jpeg
+
+
+# file types
+*.py
+*.h5
+
+# folders
+images
+datasets
+__pycache__
+dataset
+font
+data
+# folders directories
 bin/
 lib/
 include/

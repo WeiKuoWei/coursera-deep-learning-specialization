@@ -5,6 +5,10 @@
 *.py
 *.h5
 
+# files
+Drive.ai Dataset Sample LICENSE
+LICENSE
+
 # folders
 images
 datasets
@@ -12,6 +16,11 @@ __pycache__
 dataset
 font
 data
+model_data
+nb_images
+out
+yad2k
+
 # folders directories
 bin/
 lib/
